@@ -10,16 +10,17 @@ function App() {
     return (
         <Router>
             <div className="flex flex-col min-h-screen bg-black">
-                <Navbar />
+                <div className="absolute inset-0 bg-black/95 pointer-events-none"></div>
+                <Navbar/>
                 <main className="flex-grow">
                     <Routes>
-                        <Route path="/" element={<Home />} />
-                        <Route path="/services" element={<Services />} />
-                        <Route path="/about-me" element={<AboutMe />} />
-                        <Route path="/faq" element={<FAQ />} />
+                        <Route path="/" element={<Home/>}/>
+                        <Route path="/services" element={<Services/>}/>
+                        <Route path="/about-me" element={<AboutMe/>}/>
+                        <Route path="/faq" element={<FAQ/>}/>
                     </Routes>
                 </main>
-                <Footer />
+                <Footer/>
             </div>
         </Router>
     );
