@@ -14,10 +14,10 @@ function GlitterBackground({count = 500}) {
             glitter.className = 'glitter';
             glitter.style.left = `${Math.random() * 100}%`;
             glitter.style.top = `${Math.random() * 100}%`;
-            glitter.style.width = `${Math.random() * 2 + 1}px`; // smaller size
+            glitter.style.width = `${Math.random() * 2 + 2}px`; // smaller size
             glitter.style.height = glitter.style.width;
             glitter.style.opacity = `${Math.random() * 0.3 + 0.1}`; // very subtle
-            glitter.style.animationDuration = `${Math.random() * 5 + 3}s`; // random speed
+            glitter.style.animationDuration = `${Math.random() * 3 + 1.5}s`; // random speed
             glitter.style.backgroundColor = '#d2b48c'; // soft gold
             container.appendChild(glitter);
             glitters.push(glitter);
