@@ -5,7 +5,7 @@ import AboutSection from '../components/AboutSection';
 import FeaturedServices from '../components/FeaturedServices';
 import FinalCTA from '../components/FinalCTA';
 import GlitterBackground from '../components/GlitterBackground';
-import SectionSeparator from '../components/SectionSeparator';
+import SectionSeparator from '../components/sectionSeparator';
 
 function Home() {
     const [servicesRef, servicesVisible] = useScrollAnimation();
