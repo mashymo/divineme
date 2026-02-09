@@ -5,7 +5,7 @@ function HeroSection() {
                 <h1 className="font-serif text-4xl sm:text-6xl md:text-7xl lg:text-8xl text-[#d4d4d4] tracking-[0.2em] mb-4 sm:mb-6">
                     DIVINE ME
                 </h1>
-                <p className="text-neutral-500 text-base sm:text-xl md:text-2xl tracking-[0.15em] mb-4 sm:mb-8">
+                <p className="text-neutral-500 text-base sm:text-xl md:text-2xl tracking-[0.15em] uppercase mb-4 sm:mb-8">
                     by Jackie
                 </p>
                 <p className="text-neutral-400 max-w-2xl mx-auto text-sm sm:text-base md:text-lg leading-relaxed mb-6 sm:mb-8">

@@ -11,7 +11,7 @@ function FeaturedServices({ servicesRef, servicesVisible }) {
             <h2 className="text-center font-serif text-2xl sm:text-3xl md:text-4xl text-neutral-300 tracking-wider mb-2 sm:mb-4">
                 FEATURED SERVICES
             </h2>
-            <p className="text-center text-neutral-500 text-xs sm:text-sm md:text-base mb-8 sm:mb-16 tracking-widest uppercase">
+            <p className="text-center text-neutral-500 text-sm sm:text-base mb-8 sm:mb-16 tracking-widest uppercase">
                 Precision Brow Treatments
             </p>
 

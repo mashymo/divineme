@@ -79,7 +79,7 @@ function FAQ() {
                         <h1 className="font-serif text-4xl sm:text-5xl md:text-6xl text-[#d4d4d4] tracking-widest mb-6">
                             FREQUENTLY ASKED QUESTIONS
                         </h1>
-                        <p className="text-neutral-500 text-sm tracking-widest uppercase">
+                        <p className="text-neutral-500 text-sm tracking-widest sm:text-base uppercase">
                             Everything you need to know
                         </p>
                     </div>
