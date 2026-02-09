@@ -66,7 +66,7 @@ function AboutMe() {
                                         Thank you to everyone who has trusted me so far, and to those who will continue
                                         to
                                         support me on this journey. Each appointment is an opportunity to enhance your
-                                        natural beauty, and I can't wait to work with you.
+                                        natural beauty, and I can't wait to work with you!
                                     </p>
                                 </div>
 
